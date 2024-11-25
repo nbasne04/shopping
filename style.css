@@ -1,0 +1,21 @@
+.tour img
+{
+    height: 240px;
+    object-fit: cover;
+}
+
+.hero
+{
+    background: linear-gradient(rgb(6, 0, 0), rgb(23, 132, 23)),url( https://nepalwanders.com/wp-content/uploads/2023/08/4-1.jpg); height: 100vh;
+}
+
+.quote
+{
+    background: linear-gradient(rgb(6, 0, 0), rgb(23, 132, 23)),url( https://nepalwanders.com/wp-content/uploads/2023/08/4-1.jpg); height: 100vh;
+}
+
+.small
+{
+    width: 110px; height: 110px; background: white;
+    border-radius: 50%; margin: auto;
+}
